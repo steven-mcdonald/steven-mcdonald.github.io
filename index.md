@@ -5,13 +5,10 @@
 [Thermal Facial Landmarks](/sample_page)
 <img src="images/resize_example.png?raw=true"/>
 
----
-[Thermal Facial Unet](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Murakami Translators](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Murakami_Title_Image.png?raw=true"/>
 
 ---
 [London Street Trees](http://example.com/)
