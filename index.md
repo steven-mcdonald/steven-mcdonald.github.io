@@ -12,7 +12,7 @@
 
 ---
 [London Street Trees](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/street_trees_map.png?raw=true"/>
 
 ---
 
