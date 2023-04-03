@@ -3,6 +3,7 @@
 ---
 
 [Thermal Facial Landmarks](/sample_page)
+![Example1](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/videos/p10_lmarks_compare_pix.gif)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
