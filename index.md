@@ -2,7 +2,7 @@
 
 ---
 
-[Thermal Facial Landmarks](/sample_page)
+[Thermal Facial Landmarks](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 <img src="images/resize_example.png?raw=true"/>
 
 
