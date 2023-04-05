@@ -7,7 +7,7 @@
 
 
 ---
-[Murakami Translators](http://example.com/)
+[Murakami Translators](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
 <img src="images/Murakami_Title_Image.png?raw=true"/>
 
 ---
