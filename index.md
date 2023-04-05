@@ -19,6 +19,16 @@ As an avid reader of fiction, I have often wondered about the impact of the tran
 
 ---
 [London Street Trees](http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/)
+
+Walking around leafy London there is a surprising variety of trees to be seen lining the streets. To help identify the trees and even seek out trees I've built an app with an interactive map of the locations of the different tree types on the streets of London.
+
+The data is from the London Data store at:
+https://data.london.gov.uk/dataset/local-authority-maintained-trees
+
+The app was developed in python with Streamlit and deployed using Docker and AWS Elastic Beanstalk.
+You can access the app by following the link below:
+http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/
+
 <img src="images/street_trees_map.png?raw=true"/>
 
 ---
