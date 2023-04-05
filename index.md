@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Thermal Facial Landmarks](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
+# [Thermal Facial Landmarks](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
 The ability to accurately identify landmark locations on thermal facial images is key to a number of facial analysis problems. Annotation on thermal images using models trained on visible spectrum images are unreliable. Current approaches therefore rely on time consuming manual annotation or are limited to facial images in constrained situations. 
 
