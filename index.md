@@ -10,24 +10,16 @@ This project is a framework for annotating thermal facial images in situations w
 
 <img src="images/resize_example.png?raw=true"/>
 
-
 ---
 [Murakami Translators](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
+
+As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I was reading was Murakami and how much was the translator? Did the different translators have different takes on the original work? This seemed quite possible to me given the linguistic gulf between Japanese and English.
+
 <img src="images/Murakami_Title_Image.png?raw=true"/>
 
 ---
 [London Street Trees](http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/)
 <img src="images/street_trees_map.png?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
