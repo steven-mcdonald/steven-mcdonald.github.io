@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-# [Thermal Facial Landmarks](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
+### [Thermal Facial Landmarks](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
 The ability to accurately identify landmark locations on thermal facial images is key to a number of facial analysis problems. Annotation on thermal images using models trained on visible spectrum images are unreliable. Current approaches therefore rely on time consuming manual annotation or are limited to facial images in constrained situations. 
 
@@ -10,14 +10,14 @@ This project is a framework for annotating thermal facial images in situations w
 <img src="images/resize_example.png?raw=true"/>
 
 ---
-[Murakami Translators](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
+### [Murakami Translators](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
 
 As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I was reading was Murakami and how much was the translator? Did the different translators have different takes on the original work? This seemed quite possible to me given the linguistic gulf between Japanese and English.
 
 <img src="images/Murakami_Title_Image.png?raw=true"/>
 
 ---
-[London Street Trees](http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/)
+### [London Street Trees](http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/)
 
 Walking around leafy London there is a surprising variety of trees to be seen lining the streets. To help identify the trees and even seek out trees I've built an app with an interactive map of the locations of the different tree types on the streets of London.
 
