@@ -12,7 +12,7 @@ This project presents a novel framework for annotating thermal facial images in 
 ---
 ### [Murakami Translator Detection](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
 
-As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I was reading was Murakami and how much was the translator? Did the different translators have different takes on the original work? This seemed quite possible to me given the linguistic gulf between Japanese and English.
+As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I read is Murakami and how much is the translator? Do the different translators have different takes on the original work?
 
 <img src="images/Murakami_Title_Image.png?raw=true"/>
 
