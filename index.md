@@ -29,8 +29,9 @@ You can access the app by following the link in the title.
 <img src="images/street_trees_map.png?raw=true"/>
 
 ---
+### [Geospatial Mapping](https://github.com/steven-mcdonald/geospatial-mapping)
 
-
+Having worked for a number of years as a geophysicist, I am a sucker for a cool map. Here I gather together any interesting maps I produce. The first shows global land temperature variation over 4 years. 
 
 
 ---
