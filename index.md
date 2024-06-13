@@ -37,6 +37,8 @@ Having worked for a number of years as a geophysicist, I am a sucker for a cool 
 
 This next map shows global flight routes and I have highlighted some that I have taken based on where I was living at the time.
 
+<img src="images/air_sel.png?raw=true"/>
+
 
 
 ---
