@@ -3,7 +3,7 @@
 ---
 ### [Thermal Facial Landmark Annotation](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
-###### *\#computer vision   \#thermal imaging   \#Python   \#OpenCV   \#PyTorch*
+###### *\#computer vision &nbsp; \#thermal imaging &nbsp; \#Python &nbsp; \#OpenCV &nbsp; \#PyTorch*
 
 The ability to accurately identify landmarks on thermal facial images is crucial for facial analysis. However, annotating thermal images using models trained on visible spectrum images is unreliable. Current approaches therefore rely on manual annotation or are limited to constrained situations.
 
@@ -15,7 +15,7 @@ This project presents a novel framework for annotating thermal facial images in 
 ---
 ### [Murakami Translator Detection](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
 
-###### *\#NLP   *\#Supervised Classification \#Python   \#SciKitLearn*
+###### *\#NLP   \#Supervised Classification \#Python   \#SciKitLearn*
 
 As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I read is Murakami and how much is the translator? Do the different translators have different takes on the original work?
 
