@@ -3,6 +3,7 @@
 ---
 ### [Thermal Facial Landmark Annotation](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
+###### *\#computer vision   \#thermal imaging   \#Python   \#OpenCV   \#PyTorch*
 
 The ability to accurately identify landmarks on thermal facial images is crucial for facial analysis. However, annotating thermal images using models trained on visible spectrum images is unreliable. Current approaches therefore rely on manual annotation or are limited to constrained situations.
 
@@ -10,10 +11,11 @@ This project presents a novel framework for annotating thermal facial images in 
 
 <img src="images/resize_example.png?raw=true"/>
 
-###### *\#computer vision   \#thermal imaging   \#Python   \#OpenCV   \#PyTorch*
 
 ---
 ### [Murakami Translator Detection](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
+
+###### *\#NLP   *\#Supervised Classification \#Python   \#SciKitLearn*
 
 As an avid reader of fiction, I have often wondered about the impact of the translator's style on a translated novel. In particular, I've been curious about the works of Haruki Murakami. He writes in Japanese and has three main english language translators: Alfred Birnbaum, Jay Rubin and Philip Gabriel. How much of what I read is Murakami and how much is the translator? Do the different translators have different takes on the original work?
 
@@ -21,6 +23,8 @@ As an avid reader of fiction, I have often wondered about the impact of the tran
 
 ---
 ### [London Street Trees App](http://londonstreettrees-env-1.eba-xdmgcbk6.eu-west-2.elasticbeanstalk.com/)
+
+###### *\#Python   \#Streamlit*
 
 Walking around leafy London there is a surprising variety of trees to be seen lining the streets. To help identify the trees and even seek out trees I've built an app with an interactive map of the locations of the different tree types on the streets of London.
 
@@ -33,6 +37,8 @@ You can access the app by following the link in the title.
 
 ---
 ### [Geospatial Mapping](https://github.com/steven-mcdonald/geospatial-mapping)
+
+###### *\#Python   \#GeoPandas*
 
 Having worked for a number of years as a geophysicist, I am a sucker for a cool map. Here I gather together any interesting maps I produce. The first shows global land temperature variation over 4 years. 
 
