@@ -3,6 +3,8 @@
 ---
 ### [Thermal Facial Landmark Annotation](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
+\#computer vision \#thermal imaging \#facial landmark annotation
+
 The ability to accurately identify landmarks on thermal facial images is crucial for facial analysis. However, annotating thermal images using models trained on visible spectrum images is unreliable. Current approaches therefore rely on manual annotation or are limited to constrained situations.
 
 This project presents a novel framework for annotating thermal facial images in situations where thermal and visible images capture the same scene with non-co-located or unsynchronized cameras. The framework minimizes manual annotation and does not require constrained head poses or expressions. It utilizes solutions to the Perspective-n-Point (PnP) pose problem to transfer 3D landmarks from visible images to 2D landmarks on corresponding thermal images.
