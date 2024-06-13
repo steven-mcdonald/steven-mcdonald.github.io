@@ -10,7 +10,7 @@ This project presents a novel framework for annotating thermal facial images in 
 
 <img src="images/resize_example.png?raw=true"/>
 
-###### *\#computer vision \#thermal imaging \#facial landmark annotation* \#Python \#OpenCV \#PyTorch
+###### *\#computer vision   \#thermal imaging   \#Python   \#OpenCV   \#PyTorch*
 
 ---
 ### [Murakami Translator Detection](https://medium.com/towards-data-science/which-translator-870bae18f3bf)
