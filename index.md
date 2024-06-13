@@ -35,6 +35,10 @@ Having worked for a number of years as a geophysicist, I am a sucker for a cool 
 
 <img src="images/surface_temp.gif?raw=true"/>
 
+This next map shows global flight routes and I have highlighted some that I have taken based on where I was living at the time.
+
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
