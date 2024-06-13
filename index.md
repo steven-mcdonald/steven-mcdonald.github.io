@@ -3,7 +3,7 @@
 ---
 ### [Thermal Facial Landmark Annotation](https://github.com/steven-mcdonald/thermal_facial_landmarks/blob/main/README.md)
 
-\#computer vision \#thermal imaging \#facial landmark annotation
+*\#computer vision \#thermal imaging \#facial landmark annotation*
 
 The ability to accurately identify landmarks on thermal facial images is crucial for facial analysis. However, annotating thermal images using models trained on visible spectrum images is unreliable. Current approaches therefore rely on manual annotation or are limited to constrained situations.
 
