@@ -33,6 +33,7 @@ You can access the app by following the link in the title.
 
 Having worked for a number of years as a geophysicist, I am a sucker for a cool map. Here I gather together any interesting maps I produce. The first shows global land temperature variation over 4 years. 
 
+<img src="images/surface_temp.gif?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
