@@ -48,7 +48,14 @@ This next map shows global flight routes and I have highlighted some that I have
 
 <img src="images/air_sel.png?raw=true"/>
 
+---
+### [MongoDB Vector Search](https://github.com/steven-mcdonald/mongodb-vector-search)
 
+###### *\#MongoDB   \#Python   \#Hugging Face*
+
+I've been using AWS DocumentDB in my day-to-day work but was interested to try pure MongoDB directly as well. In particular the vector search indexing seems quite straightforward to set up. 
+
+In addition, I've been regularly using the Hugging Face transformers library locally for quick embedding prototyping before running in AWS for larger scale testing and production. I was therefore interested to try setting up embedding generating endpoints directly through the Hugging Face Inference Ednpoints interface. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
